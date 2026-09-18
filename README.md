@@ -44,7 +44,7 @@ $ tclock --help
 $ tclock clock -h
 ```
 
-## Clock mode, this it the default mode
+## Clock mode, this is the default mode
 
 ```shell
 $ tclock clock
